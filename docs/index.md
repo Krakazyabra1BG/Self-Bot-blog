@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# WELCOME
 
-You can use the [editor on GitHub](https://github.com/Krakazyabra1BG/Krakazyabra1BG/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## SELF-BOT "WIZARD'S HOME"
+
+You can visit my [discord server](https://discord.gg/DezgMHPpFe) to familiarize yourself with the discord bot, me and other things.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Plan
+My future plans for the bot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Create a search engine for people by ID
 
-```markdown
-Syntax highlighted code block
+> Create status customization
 
-# Header 1
-## Header 2
-### Header 3
+> Learn python along the way :)
 
-- Bulleted
-- List
+### NEED HELP
 
-1. Numbered
-2. List
+## Where do I need help
+I need help with these commands
+> Search for a person by ID ; 
+> Webhook spam
+> Webhook creation
+And for now, that's it ...
 
-**Bold** and _Italic_ and `Code` text
+At the moment, the self-bot has commands to ban, kick, say, eval, spam. 
+The site will be updated as soon as possible. And the news will be fasting.
+Bye!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Krakazyabra1BG/Krakazyabra1BG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# NEWS
+> None here
+> coming soon...
